@@ -1,0 +1,2 @@
+# internship_root2ai_classify_text
+Different Approaches of Text Classification
